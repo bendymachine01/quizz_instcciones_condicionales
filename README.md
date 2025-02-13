@@ -21,7 +21,7 @@ Para que tres lados formen un triángulo, deben cumplir la **desigualdad triangu
 - La suma de dos lados debe ser siempre mayor que el tercer lado.  
 - Si alguna de estas condiciones no se cumple, los números no pueden formar un triángulo.  
 
-## Salida (Output)  
+## Salida
 El programa indicará si los números ingresados pueden formar un triángulo o no.  
 
 ## Diseño
