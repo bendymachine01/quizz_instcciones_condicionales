@@ -1,4 +1,4 @@
-# quizz_instcciones_condicionales
+# quizz_instrucciones_condicionales
 
 # Anlisis
 
